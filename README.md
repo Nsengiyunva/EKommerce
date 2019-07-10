@@ -1,12 +1,12 @@
 # :iphone: EKommerce React Native App
 
-An Android and iOS mobile app
+An Android and iOS mobile app for the ecommerce application
 
 #### Getting started
 
 Please following the instructions below in order to get the application up and running. currently the app is running safely on the android platform and we intend to run the iOS once we can do so. First before setup clone the repository by running the command below.
 
-`[$ git clone https://github.com/Nsengiyunva/EKommerce.git`
+`$ git clone https://github.com/Nsengiyunva/EKommerce.git`
 
 1. **Install an Android emulator**.  
    You can install Android studio from [Here](https://developer.android.com/studio) plus instructions on how to run the studio. In case the emulator does not work out, you can use a physical device.
